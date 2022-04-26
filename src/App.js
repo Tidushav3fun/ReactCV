@@ -11,7 +11,7 @@ const App = () => {
   <>
     <BrowserRouter>
       <Switch>
-        <Route path="/ReactCV" exact component = {Home} />
+        <Route path="/ReactCV/" exact component = {Home} />
         <Route path="/ReactCV/competences" component = {Knowledges} />
         <Route path="/ReactCV/portfolio" component = {Portfolio} />
         <Route path="/ReactCV/contact" component = {Contact} />
