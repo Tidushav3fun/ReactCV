@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Tidushav3fun/ReactCV/static/css/main.9cdef937.css",
+    "main.js": "/Tidushav3fun/ReactCV/static/js/main.28834f79.js",
+    "static/js/787.6041366a.chunk.js": "/Tidushav3fun/ReactCV/static/js/787.6041366a.chunk.js",
+    "static/media/dev.jpg": "/Tidushav3fun/ReactCV/static/media/dev.2b7723ccef43fee07b0e.jpg",
+    "index.html": "/Tidushav3fun/ReactCV/index.html",
+    "static/media/shape.svg": "/Tidushav3fun/ReactCV/static/media/shape.1d026b20b3a18a74a971.svg",
+    "main.9cdef937.css.map": "/Tidushav3fun/ReactCV/static/css/main.9cdef937.css.map",
+    "main.28834f79.js.map": "/Tidushav3fun/ReactCV/static/js/main.28834f79.js.map",
+    "787.6041366a.chunk.js.map": "/Tidushav3fun/ReactCV/static/js/787.6041366a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cdef937.css",
+    "static/js/main.28834f79.js"
+  ]
+}
